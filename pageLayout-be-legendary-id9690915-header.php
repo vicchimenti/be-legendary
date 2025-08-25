@@ -55,7 +55,7 @@
 
     <t4 type="navigation" name="Return Scripts for Start of Body" id="979" />
 
-    <div class="page page--page <t4 type='navigation' name='Return Page Class' id='966' />">
+    <div class="page page--page">
 
         <t4 type="navigation" name="Return Site Wide Notices" id="970" />
 
@@ -65,4 +65,4 @@
 
         <div class="page-wrapper">
             <main id="main-content" class="main-content">
-                <article<t4 type="navigation" name="Return Article Class" id="967" />>
+                <article>
