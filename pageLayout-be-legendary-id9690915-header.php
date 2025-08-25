@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="id" content="<t4 type='navigation' name='Get Current Section ID' id='886' />" />
-    <meta property="publisher" @type="Organization" name="Seattle University">
+    <meta name="publisher" content="Seattle University">
+    <meta property="publisher" content="Seattle University">
     <t4 type="navigation" name="Return Canonical Tags" id="975" />
     <t4 type="navigation" name="V10 - Recursive Title" id="971" />
     <t4 type="navigation" name="Return Meta Tags" id="973" />
