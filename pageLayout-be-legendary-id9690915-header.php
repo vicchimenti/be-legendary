@@ -51,7 +51,7 @@
 
 </head>
 
-<body class="">
+<body class="be-legendary">
 
     <t4 type="navigation" name="Return Scripts for Start of Body - Be Legendary" id="1122" />
 
