@@ -24,7 +24,7 @@
     <!-- Custom Head Code -->
     <t4 type="navigation" name="V10 - Custom Header Code" id="1014" />
     
-    <!-- Nav Icons -->
+    <!-- Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href='<t4 type="media" id="6913741" formatter="path/*" />'>
     <link rel="icon" type="image/png" sizes="32x32" href='<t4 type="media" id="6913745" formatter="path/*" />'>
     <link rel="icon" type="image/png" sizes="16x16" href='<t4 type="media" id="6913749" formatter="path/*" />'>
@@ -43,7 +43,6 @@
     <!-- all.css -->
     <t4 type="media" id="7022512" formatter="cssver/*" />
     <!-- t4-extras.css -->
-
 
     <!-- Custom -->
     <t4 type="navigation" name="Return Scripts for Head - Be Legendary" id="1121" />
