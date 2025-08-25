@@ -10,7 +10,6 @@
     <t4 type="navigation" name="Return Canonical Tags" id="975" />
     <t4 type="navigation" name="V10 - Recursive Title" id="971" />
     <t4 type="navigation" name="Return Meta Tags" id="973" />
-    <t4 type="navigation" name="Fulltext Meta Navigation" id="1019" />
     <t4 type="meta" id="54" />
     <t4 type="meta" id="22" />
     <meta name="generator" content="Terminalfour">
@@ -21,22 +20,6 @@
     <meta name="Language" content="en-US">
     <meta name="googlebot" content="all">
     <meta name="robots" content="all">
-
-    <!-- Preconnects -->
-    <link rel="preconnect" href="https://fonts.googleapis.com"  />
-
-    <!-- Preloads -->
-    <link
-        rel="preload"
-        href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,700;1,500;1,800&amp;family=Oswald:wght@300;700&amp;family=Roboto+Slab:wght@200;300&amp;display=swap"
-        as="style"
-        crossorigin
-    />
-    <link
-        rel="preload"
-        href="/media/seattle-university/site-assets/css/theme.min.css"
-        as="style"
-    />
 
     <!-- Custom Head Code -->
     <t4 type="navigation" name="V10 - Custom Header Code" id="1014" />
@@ -60,8 +43,7 @@
     <!-- all.css -->
     <t4 type="media" id="7022512" formatter="cssver/*" />
     <!-- t4-extras.css -->
-    <t4 type="media" id="8953952" formatter="cssver/*" />
-    <!-- funnelback.css -->
+
 
     <!-- Custom -->
     <t4 type="navigation" name="Return Scripts for Head" id="978" />
