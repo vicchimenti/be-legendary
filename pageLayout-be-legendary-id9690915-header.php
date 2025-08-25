@@ -54,9 +54,9 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Roboto+Slab:wght@200;400;600;700&display=swap" rel="stylesheet">
 
-    <script type="module" crossorigin src="/seattle-university/be-legendary/javascript/index-BDlDsRH7.js"></script>
-    <link rel="stylesheet" crossorigin href="/seattle-university/be-legendary/css/index-DkoO2KZw.css">
-    
+    <script type="module" crossorigin src="/media/seattle-university/be-legendary/javascript/index-BDlDsRH7.js"></script>
+    <link rel="stylesheet" crossorigin href="/media/seattle-university/be-legendary/css/index-DkoO2KZw.css">
+
     <!-- Custom -->
     <t4 type="navigation" name="Return Scripts for Head - Be Legendary" id="1121" />
     <t4 type="navigation" name="V10 - Custom CSS Zone" id="1013" />
