@@ -3,8 +3,6 @@
             </div>
             <!-- .page-wrapper -->
             <t4 type="navigation" name="Return Back to top" id="1083" />
-            <t4 type="navigation" name="Return Sock" id="982" />
-            <t4 type="navigation" name="Return Common Footer HTML" id="950" />
 
         </div>
         <!-- .page -->
