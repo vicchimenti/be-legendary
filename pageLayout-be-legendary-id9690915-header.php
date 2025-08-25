@@ -1,7 +1,7 @@
 <t4 type="navigation" name="v10 Access Control - PHP" id="1021" /><t4 type="navigation" name="Return PHP Head" id="977" /><t4 type="media" id="7506257" formatter="inline/*" />
 <!DOCTYPE html>
 <html lang="en-US">
-<head>
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,8 +9,22 @@
     <meta name="publisher" content="Seattle University">
     <meta property="publisher" content="Seattle University">
     <t4 type="navigation" name="Return Canonical Tags" id="975" />
-    <t4 type="navigation" name="V10 - Recursive Title" id="971" />
-    <t4 type="navigation" name="Return Meta Tags" id="973" />
+    <title>Seattle University Be Legendary</title>
+    <meta name="description" content="Founded in 1891, Seattle University is a Jesuit, Catholic university located on a vibrant and green campus of 50 acres in the dynamic heart of Seattle, Washington." />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@seattleu">
+    <meta name="twitter:creator" content="@seattleu">
+    <meta name="twitter:title" content="Adventure Beyond the Classroom" />
+    <meta name="twitter:url" content="https://www.seattleu.edu/">
+    <meta name="twitter:description" content="Founded in 1891, Seattle University is a Jesuit, Catholic university located on a vibrant and green campus of 50 acres in the dynamic heart of Seattle, Washington." />
+    <meta name="twitter:image" content="https://www.seattleu.edu/media/seattle-university/testing123/HP_summer2025banner_2-2400x1350.png" />
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Seattle University">
+    <meta property="og:title" content="Adventure Beyond the Classroom" />
+    <meta property="og:url" content="https://www.seattleu.edu/">
+    <meta property="og:description" content="Founded in 1891, Seattle University is a Jesuit, Catholic university located on a vibrant and green campus of 50 acres in the dynamic heart of Seattle, Washington." />
+    <meta property="og:image" content="https://www.seattleu.edu/media/seattle-university/testing123/HP_summer2025banner_2-2400x1350.png" />
+    <meta property="og:image:alt" content="Summer adventure image collage">
     <t4 type="meta" id="54" />
     <t4 type="meta" id="22" />
     <meta name="generator" content="Terminalfour">
@@ -24,32 +38,32 @@
 
     <!-- Custom Head Code -->
     <t4 type="navigation" name="V10 - Custom Header Code" id="1014" />
-    
+
     <!-- Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href='<t4 type="media" id="6913741" formatter="path/*" />'>
-    <link rel="icon" type="image/png" sizes="32x32" href='<t4 type="media" id="6913745" formatter="path/*" />'>
-    <link rel="icon" type="image/png" sizes="16x16" href='<t4 type="media" id="6913749" formatter="path/*" />'>
-    <link rel="manifest" href='<t4 type="media" id="6913805" formatter="path/*" />'>
-    <link rel="shortcut icon" href='<t4 type="media" id="6913753" formatter="path/*" />'>
+    <link rel="apple-touch-icon" sizes="180x180" href='https://www.seattleu.edu/media/seattle-university/site-assets/favicons/apple-touch-icon.png'>
+    <link rel="icon" type="image/png" sizes="32x32" href='https://www.seattleu.edu/media/seattle-university/site-assets/favicons/favicon-32x32.png'>
+    <link rel="icon" type="image/png" sizes="16x16" href='https://www.seattleu.edu/media/seattle-university/site-assets/favicons/favicon-16x16.png'>
+    <link rel="manifest" href='https://www.seattleu.edu/media/seattle-university/site-assets/favicons/site.webmanifest'>
+    <link rel="shortcut icon" href='https://www.seattleu.edu/media/seattle-university/site-assets/favicons/favicon.ico'>
     <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="msapplication-config" content='<t4 type="media" id="6913806" formatter="path/*" />'>
+    <meta name="msapplication-config" content='https://www.seattleu.edu/media/seattle-university/site-assets/favicons/browserconfig.xml'>
 
-    <!-- Stylesheets -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,700;1,500;1,800&amp;family=Oswald:wght@300;700&amp;family=Roboto+Slab:wght@200;300&amp;display=swap" />
-    <t4 type="media" id="6907520" formatter="cssver/*" />
-    <!-- app.css -->
-    <t4 type="media" id="8739839" formatter="cssver/*" />
-    <!-- theme.min.css -->
-    <t4 type="media" id="6907522" formatter="cssver/*" />
-    <!-- all.css -->
-    <t4 type="media" id="7022512" formatter="cssver/*" />
-    <!-- t4-extras.css -->
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Roboto+Slab:wght@200;400;600;700&display=swap" rel="stylesheet">
+
+    <script type="module" crossorigin src="/seattle-university/be-legendary/javascript/index-BDlDsRH7.js"></script>
+    <link rel="stylesheet" crossorigin href="/seattle-university/be-legendary/css/index-DkoO2KZw.css">
+    
     <!-- Custom -->
     <t4 type="navigation" name="Return Scripts for Head - Be Legendary" id="1121" />
     <t4 type="navigation" name="V10 - Custom CSS Zone" id="1013" />
+  </head>
 
-</head>
+
+
 
 <body class="be-legendary">
 
