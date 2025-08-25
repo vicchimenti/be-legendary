@@ -57,8 +57,6 @@
 
     <div class="page page--page">
 
-        <t4 type="navigation" name="Return Common Header HTML" id="940" />
-
         <div class="page-wrapper">
             <main id="main-content" class="main-content">
                 <article>
