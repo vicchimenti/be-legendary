@@ -23,7 +23,7 @@
     <t4 type="meta" id="54" />
     <t4 type="meta" id="22" />
     <meta name="generator" content="Terminalfour">
-    <meta name="theme-color" content="#ffffff">
+    <meta name="theme-color" content="#da532c">
     <meta name="siteid" content="us">
     <meta name="countryid" content="US">
     <meta name="country" content="United States">
