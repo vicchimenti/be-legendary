@@ -2,13 +2,8 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="id" content="<t4 type='navigation' name='Get Current Section ID' id='886' />" />
-    <meta name="publisher" content="Seattle University">
-    <meta property="publisher" content="Seattle University">
-    <t4 type="navigation" name="Return Canonical Tags" id="975" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Seattle University Be Legendary</title>
     <meta name="description" content="Founded in 1891, Seattle University is a Jesuit, Catholic university located on a vibrant and green campus of 50 acres in the dynamic heart of Seattle, Washington." />
     <meta name="twitter:card" content="summary_large_image">
@@ -54,14 +49,14 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Roboto+Slab:wght@200;400;600;700&display=swap" rel="stylesheet">
 
-    <script type="module" crossorigin src="/media/seattle-university/be-legendary/javascript/index-BDlDsRH7.js"></script>
-    <link rel="stylesheet" crossorigin href="/media/seattle-university/be-legendary/css/index-DkoO2KZw.css">
-
+    <script type="module" crossorigin src="/media/seattle-university/be-legendary/assets/index-Dby3w-Xf.js"></script>
+    <link rel="stylesheet" crossorigin href="/media/seattle-university/be-legendary/assets/index-ovG-TvK5.css">
+  
     <!-- Custom -->
     <t4 type="navigation" name="Return Scripts for Head - Be Legendary" id="1121" />
     <t4 type="navigation" name="V10 - Custom CSS Zone" id="1013" />
-  </head>
 
+  </head>
   <body class="be-legendary">
     <t4 type="navigation" name="Return Scripts for Start of Body - Be Legendary" id="1122" />
     <div id="app">
