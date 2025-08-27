@@ -2,6 +2,11 @@
     background-color: #fff;
 }
 
+.legendary-styles.bg--dark.bg--blue .bg--dark,
+.legendary-styles.bg--dark.bg--blue .bg--blue {
+    all: unset;
+}
+
 .legendary-styles .news-story--item {
     background-color: #aa0000;
 }
