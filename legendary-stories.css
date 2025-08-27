@@ -32,8 +32,32 @@ li:nth-child(even) .news-story--item {
     text-decoration: none;
 }
 
-/* .legendary-styles .section-heading__link a {
-    color: #000000;
-    text-decoration: none;
-} */
+.legendary-styles .swiper-wrapper { 
+  align-items: stretch;          /* key line */
+}
+
+.legendary-styles .swiper-slide {
+  display: flex;                 /* so children can stretch */
+}
+
+.legendary-styles .news-story--item {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;                /* fill the slide’s height */
+}
+
+.legendary-styles .news-story__text {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;                /* makes all cards equal height */
+}
+
+.legendary-styles .news-story__text > .global-spacing--2x {
+  margin-top: auto;              /* pushes this block to the bottom */
+}
+
+.legendary-styles .aspect-ratio-frame {
+  width: 100%;
+}
+
 
