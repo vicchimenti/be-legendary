@@ -26,3 +26,8 @@ li:nth-child(even) .news-story--item {
 .legendary-styles .news-story__text {
     color: #fff;
 }
+
+.legendary-styles .section-heading__link a {
+    color: #000000;
+    text-decoration: none;
+}
