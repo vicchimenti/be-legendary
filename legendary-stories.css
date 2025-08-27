@@ -1,3 +1,15 @@
 .legendary-styles {
     background-color: #fff;
 }
+
+.legendary-styles .news-story--item {
+    background-color: #aa0000;
+}
+
+li:nth-child(even) .news-story--item {
+    background-color: #aa0000;
+}
+
+.legendary-styles .news-story__text {
+    color: #fff;
+}
