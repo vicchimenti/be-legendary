@@ -32,28 +32,30 @@ li:nth-child(even) .news-story--item {
     text-decoration: none;
 }
 
+.legendary-styles .swiper,
+.legendary-styles .swiper-wrapper,
+.legendary-styles .swiper-slide {
+  height: auto !important;        /* override theme’s 100% height */
+}
+
 .legendary-styles .swiper-wrapper { 
-  align-items: stretch;          /* key line */
+  align-items: stretch;          
 }
 
 .legendary-styles .swiper-slide {
-  display: flex;                 /* so children can stretch */
+  display: flex;               
 }
 
 .legendary-styles .news-story--item {
   display: flex;
   flex-direction: column;
-  flex: 1 1 auto;                /* fill the slide’s height */
+  flex: 1 1 auto;               
 }
 
 .legendary-styles .news-story__text {
   display: flex;
   flex-direction: column;
-  flex: 1 1 auto;                /* makes all cards equal height */
-}
-
-.legendary-styles .news-story__text > .global-spacing--2x {
-  margin-top: auto;              /* pushes this block to the bottom */
+  flex: 1 1 auto;                
 }
 
 .legendary-styles .aspect-ratio-frame {
