@@ -7,6 +7,14 @@
     all: unset;
 }
 
+.bg--blue {
+    all: unset;
+}
+
+.bg--dark {
+    all: unset;
+}
+
 .legendary-styles .news-story--item {
     background-color: #aa0000;
 }
