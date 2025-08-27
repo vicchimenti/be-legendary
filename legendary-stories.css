@@ -62,9 +62,16 @@ li:nth-child(even) .news-story--item {
   width: 100%;
 }
 
-.page-wrapper {
+/* .page-wrapper {
     background-image: url(/media/seattle-university/be-legendary/assets/TEXTURE_BG_-MrL5fFl2.jpg);
     background-repeat: repeat; /* or no-repeat depending on your needs */
     background-position: center top;
     background-size: cover; /* or contain, depending on the texture */
+} */
+
+.legendary-styles.news-section {
+    background-image: url(/media/seattle-university/be-legendary/assets/TEXTURE_BG_-MrL5fFl2.jpg);
+    background-repeat: repeat; /* or no-repeat */
+    background-position: center top;
+    background-size: cover; /* or auto for original texture size */
 }
