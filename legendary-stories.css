@@ -27,7 +27,13 @@ li:nth-child(even) .news-story--item {
     color: #fff;
 }
 
-.legendary-styles .section-heading__link a {
+.legendary-styles .funderline > a {
     color: #000000;
     text-decoration: none;
 }
+
+/* .legendary-styles .section-heading__link a {
+    color: #000000;
+    text-decoration: none;
+} */
+
