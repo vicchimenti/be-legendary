@@ -62,16 +62,24 @@ li:nth-child(even) .news-story--item {
   width: 100%;
 }
 
-/* .page-wrapper {
-    background-image: url(/media/seattle-university/be-legendary/assets/TEXTURE_BG_-MrL5fFl2.jpg);
-    background-repeat: repeat; /* or no-repeat depending on your needs */
-    background-position: center top;
-    background-size: cover; /* or contain, depending on the texture */
-} */
+body {
+    background: linear-gradient(to bottom, #f5f5f5 0%, #f5f5f5 30%, transparent 70%);
+    background-attachment: fixed;
+    min-height: 100vh;
+}
 
 .legendary-styles.news-section {
     background-image: url(/media/seattle-university/be-legendary/assets/TEXTURE_BG_-MrL5fFl2.jpg);
-    background-repeat: repeat; /* or no-repeat */
+    background-repeat: repeat; 
     background-position: center top;
-    background-size: cover; /* or auto for original texture size */
+    background-size: cover; 
 }
+
+
+ .page-wrapper {
+    background-image: url(/media/seattle-university/be-legendary/assets/TEXTURE_BG_-MrL5fFl2.jpg);
+    background-repeat: repeat; 
+    background-position: center top;
+    background-size: cover; 
+} 
+
