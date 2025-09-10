@@ -49,7 +49,7 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Roboto+Slab:wght@200;400;600;700&display=swap" rel="stylesheet">
 
-    <script type="module" crossorigin src="/media/seattle-university/be-legendary/assets/index-4hSQ8R0C.js"></script>
+    <script type="module" crossorigin src="/media/seattle-university/be-legendary/assets/index-BmoMPD3Y.js"></script>
     <link rel="stylesheet" crossorigin href="/media/seattle-university/be-legendary/assets/index-DIjMhUd5.css">
   
     <!-- Custom -->
