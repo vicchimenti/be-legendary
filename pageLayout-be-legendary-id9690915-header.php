@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Seattle University Be Legendary</title>
+    <title>Be Legendary | Seattle University</title>
     <meta name="description" content="Founded in 1891, Seattle University is a Jesuit, Catholic university located on a vibrant and green campus of 50 acres in the dynamic heart of Seattle, Washington." />
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@seattleu">
