@@ -49,8 +49,8 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Roboto+Slab:wght@200;400;600;700&display=swap" rel="stylesheet">
 
-    <script type="module" crossorigin src="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-B5XfQFq0.js"></script>
-    <link rel="stylesheet" crossorigin href="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-BgTSCRD3.css">
+    <script type="module" crossorigin src="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-DnTG6dQj.js"></script>
+    <link rel="stylesheet" crossorigin href="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-D3hVh8I7.css">
   
     <!-- Custom -->
     <t4 type="navigation" name="Return Scripts for Head - Be Legendary" id="1121" />
