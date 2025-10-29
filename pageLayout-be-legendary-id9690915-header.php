@@ -31,65 +31,65 @@
     <meta name="googlebot" content="all">
     <meta name="robots" content="all">
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "Be Legendary | Seattle University",
-      "url": "https://www.seattleu.edu/be-legendary/",
-      "description": "Seattle University's 'Be Legendary' campaign celebrates the Jesuit tradition of leadership, service, and academic excellence in the heart of Seattle.",
-      "image": "https://www.seattleu.edu/media/seattle-university/site-assets/branding/seattleu-logo-300x300.png",
-      "publisher": {
-        "@type": "CollegeOrUniversity",
-        "name": "Seattle University",
-        "url": "https://www.seattleu.edu/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://www.seattleu.edu/media/seattle-university/site-assets/branding/seattleu-logo-300x300.png"
-        },
-        "sameAs": [
-          "https://twitter.com/seattleu",
-          "https://www.facebook.com/seattleu",
-          "https://www.instagram.com/seattleu/",
-          "https://www.linkedin.com/school/seattle-university/"
-        ]
-      },
-      "mainEntity": {
-        "@type": "CreativeWork",
-        "name": "Be Legendary Campaign",
-        "headline": "Adventure Beyond the Classroom",
-        "about": {
-          "@type": "EducationalOrganization",
-          "name": "Seattle University"
-        },
-        "genre": "Brand Awareness Campaign",
-        "creator": {
-          "@type": "Organization",
-          "name": "Seattle University Marketing and Communications"
-        },
-        "inLanguage": "en-US",
-        "hasPart": [
-          {
-            "@type": "VideoObject",
-            "name": "Be Legendary - Feature Video",
-            "description": "A short film highlighting Seattle University's spirit of leadership, service, and adventure beyond the classroom.",
-            "thumbnailUrl": "https://www.seattleu.edu/media/seattle-university/be-legendary/assets/VideoPlaceholder-kLSAV5Yx.jpg",
-            "uploadDate": "2025-09-02",
-            "contentUrl": "https://player.vimeo.com/video/1128245933",
-            "embedUrl": "https://player.vimeo.com/video/1128245933?background=1&autoplay=1",
-            "publisher": {
-              "@type": "Organization",
-              "name": "Seattle University"
-            }
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Be Legendary | Seattle University",
+        "url": "https://www.seattleu.edu/be-legendary/",
+        "description": "Seattle University's 'Be Legendary' campaign celebrates the Jesuit tradition of leadership, service, and academic excellence in the heart of Seattle.",
+        "image": "https://www.seattleu.edu/media/seattle-university/site-assets/branding/seattleu-logo-300x300.png",
+        "publisher": {
+          "@type": "CollegeOrUniversity",
+          "name": "Seattle University",
+          "url": "https://www.seattleu.edu/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.seattleu.edu/media/seattle-university/site-assets/branding/seattleu-logo-300x300.png"
           },
-          {
-            "@type": "VideoObject",
-            "name": "Be Legendary - Hero Motion Graphic",
-            "description": "Animated introduction video for Seattle University's Be Legendary campaign hero section.",
-            "thumbnailUrl": "https://www.seattleu.edu/media/seattle-university/be-legendary/assets/VideoPlaceholder-kLSAV5Yx.jpg"
-          }
-        ]
+          "sameAs": [
+            "https://twitter.com/seattleu",
+            "https://www.facebook.com/seattleu",
+            "https://www.instagram.com/seattleu/",
+            "https://www.linkedin.com/school/seattle-university/"
+          ]
+        },
+        "mainEntity": {
+          "@type": "CreativeWork",
+          "name": "Be Legendary Campaign",
+          "headline": "Adventure Beyond the Classroom",
+          "about": {
+            "@type": "EducationalOrganization",
+            "name": "Seattle University"
+          },
+          "genre": "Brand Awareness Campaign",
+          "creator": {
+            "@type": "Organization",
+            "name": "Seattle University Marketing and Communications"
+          },
+          "inLanguage": "en-US",
+          "hasPart": [
+            {
+              "@type": "VideoObject",
+              "name": "Be Legendary - Feature Video",
+              "description": "A short film highlighting Seattle University's spirit of leadership, service, and adventure beyond the classroom.",
+              "thumbnailUrl": "https://www.seattleu.edu/media/seattle-university/be-legendary/assets/VideoPlaceholder-kLSAV5Yx.jpg",
+              "uploadDate": "2025-09-02",
+              "contentUrl": "https://player.vimeo.com/video/1128245933",
+              "embedUrl": "https://player.vimeo.com/video/1128245933?background=1&autoplay=1",
+              "publisher": {
+                "@type": "Organization",
+                "name": "Seattle University"
+              }
+            },
+            {
+              "@type": "VideoObject",
+              "name": "Be Legendary - Hero Motion Graphic",
+              "description": "Animated introduction video for Seattle University's Be Legendary campaign hero section.",
+              "thumbnailUrl": "https://www.seattleu.edu/media/seattle-university/be-legendary/assets/VideoPlaceholder-kLSAV5Yx.jpg"
+            }
+          ]
+        }
       }
-    }
     </script>
 
 
