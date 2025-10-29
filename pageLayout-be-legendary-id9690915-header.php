@@ -71,6 +71,17 @@
           "inLanguage": "en-US",
           "hasPart": [
             {
+              "@type": "VisualArtwork",
+              "name": "Be Legendary Hero Animation",
+              "description": "Animated hero artwork composed of layered SVG graphics and imagery introducing Seattle University's Be Legendary campaign.",
+              "artMedium": "SVG animation and raster image",
+              "image": "https://www.seattleu.edu/media/seattle-university/testing123/HP_summer2025banner_2-2400x1350.png",
+              "creator": {
+                "@type": "Organization",
+                "name": "Seattle University Marketing and Communications"
+              }
+            },
+            {
               "@type": "VideoObject",
               "name": "Be Legendary - Feature Video",
               "description": "A short film highlighting Seattle University's spirit of leadership, service, and adventure beyond the classroom.",
@@ -82,12 +93,6 @@
                 "@type": "Organization",
                 "name": "Seattle University"
               }
-            },
-            {
-              "@type": "VideoObject",
-              "name": "Be Legendary - Hero Motion Graphic",
-              "description": "Animated introduction video for Seattle University's Be Legendary campaign hero section.",
-              "thumbnailUrl": "https://www.seattleu.edu/media/seattle-university/be-legendary/assets/VideoPlaceholder-kLSAV5Yx.jpg"
             }
           ]
         }
