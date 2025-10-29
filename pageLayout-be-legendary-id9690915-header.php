@@ -38,6 +38,8 @@
         "url": "https://www.seattleu.edu/be-legendary/",
         "description": "Seattle University's 'Be Legendary' campaign celebrates the Jesuit tradition of leadership, service, and academic excellence in the heart of Seattle.",
         "image": "https://www.seattleu.edu/media/seattle-university/site-assets/branding/seattleu-logo-300x300.png",
+        "datePublished": "<t4 type='meta' id='54' />",
+        "dateModified": "<t4 type='meta' id='22' />",
         "publisher": {
           "@type": "CollegeOrUniversity",
           "name": "Seattle University",
