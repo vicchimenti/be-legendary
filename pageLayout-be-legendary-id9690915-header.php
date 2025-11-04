@@ -84,7 +84,7 @@
               "name": "Be Legendary - Feature Video",
               "description": "A short film highlighting Seattle University's spirit of leadership, service, and adventure beyond the classroom.",
               "thumbnailUrl": "https://www.seattleu.edu/media/seattle-university/be-legendary/assets/VideoPlaceholder-kLSAV5Yx.jpg",
-              "uploadDate": "2025-09-02",
+              "uploadDate": "2025-09-02T05:18:30-07:00",
               "contentUrl": "https://player.vimeo.com/video/1128245933",
               "embedUrl": "https://player.vimeo.com/video/1128245933?background=1&autoplay=1",
               "publisher": {
