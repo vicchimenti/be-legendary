@@ -36,10 +36,10 @@
         "@type": "WebPage",
         "name": "Be Legendary | Seattle University",
         "url": "https://www.seattleu.edu/be-legendary/",
-        "description": "Seattle University's 'Be Legendary' campaign celebrates the Jesuit tradition of leadership, service, and academic excellence in the heart of Seattle.",
+        "description": "Join the Seattle University community in the heart of Seattle, Washington — where bold dreams, meaningful purpose and Jesuit-inspired leadership come together. Be influential. Be unstoppable. Be legendary.",
         "image": "https://www.seattleu.edu/media/seattle-university/site-assets/branding/seattleu-logo-300x300.png",
         "datePublished": "2025-09-02T05:18:30-07:00",
-        "dateModified": "2025-11-04T14:36:00-08:00",
+        "dateModified": "2025-11-04T14:39:00-08:00",
         "publisher": {
           "@type": "CollegeOrUniversity",
           "name": "Seattle University",
