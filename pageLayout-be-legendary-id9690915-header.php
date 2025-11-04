@@ -38,6 +38,8 @@
         "url": "https://www.seattleu.edu/be-legendary/",
         "description": "Seattle University's 'Be Legendary' campaign celebrates the Jesuit tradition of leadership, service, and academic excellence in the heart of Seattle.",
         "image": "https://www.seattleu.edu/media/seattle-university/site-assets/branding/seattleu-logo-300x300.png",
+        "datePublished": "2025-09-02T05:18:30-07:00",
+        "dateModified": "2025-11-04T14:32:00-08:00",
         "publisher": {
           "@type": "CollegeOrUniversity",
           "name": "Seattle University",
@@ -73,7 +75,7 @@
               "name": "Be Legendary Hero Animation",
               "description": "Animated hero artwork composed of layered SVG graphics and imagery introducing Seattle University's Be Legendary campaign.",
               "artMedium": "SVG animation and raster image",
-              "image": "https://www.seattleu.edu/media/seattle-university/testing123/HP_summer2025banner_2-2400x1350.png",
+              "image": "https://www.seattleu.edu/media/seattle-university/be-legendary/HP_summer2025banner_2-2400x1350.png",
               "creator": {
                 "@type": "Organization",
                 "name": "Seattle University Marketing and Communications"
