@@ -119,8 +119,6 @@
       }
     </script>
 
-
-
     <!-- Custom Head Code -->
     <t4 type="navigation" name="V10 - Custom Header Code" id="1014" />
 
@@ -133,12 +131,12 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-config" content='https://www.seattleu.edu/media/seattle-university/site-assets/favicons/browserconfig.xml'>
 
-
+    <!-- Preconnects -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
+    <!-- Fonts, Styles, and Scripts -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Roboto+Slab:wght@200;400;600;700&display=swap" rel="stylesheet">
-
     <script type="module" crossorigin src="https://www.seattleu.edu//media/seattle-university/be-legendary/assets/index-DucEud8B.js"></script>
     <link rel="stylesheet" crossorigin href="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-Bny-TxJ9.css">
   
