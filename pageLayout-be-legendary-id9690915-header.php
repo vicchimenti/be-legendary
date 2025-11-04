@@ -12,13 +12,13 @@
     <meta name="twitter:title" content="Adventure Beyond the Classroom" />
     <meta name="twitter:url" content="https://www.seattleu.edu/">
     <meta name="twitter:description" content="Founded in 1891, Seattle University is a Jesuit, Catholic university located on a vibrant and green campus of 50 acres in the dynamic heart of Seattle, Washington." />
-    <meta name="twitter:image" content="https://www.seattleu.edu/media/seattle-university/testing123/HP_summer2025banner_2-2400x1350.png" />
+    <meta name="twitter:image" content="https://www.seattleu.edu/media/seattle-university/be-legendary/HP_summer2025banner_2-2400x1350.png" />
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Seattle University">
     <meta property="og:title" content="Adventure Beyond the Classroom" />
     <meta property="og:url" content="https://www.seattleu.edu/">
     <meta property="og:description" content="Founded in 1891, Seattle University is a Jesuit, Catholic university located on a vibrant and green campus of 50 acres in the dynamic heart of Seattle, Washington." />
-    <meta property="og:image" content="https://www.seattleu.edu/media/seattle-university/testing123/HP_summer2025banner_2-2400x1350.png" />
+    <meta property="og:image" content="https://www.seattleu.edu/media/seattle-university/be-legendary/HP_summer2025banner_2-2400x1350.png" />
     <meta property="og:image:alt" content="Summer adventure image collage">
     <t4 type="meta" id="54" />
     <t4 type="meta" id="22" />
