@@ -5,21 +5,21 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Be Legendary | Seattle University</title>
-    <meta name="description" content="Founded in 1891, Seattle University is a Jesuit, Catholic university located on a vibrant and green campus of 50 acres in the dynamic heart of Seattle, Washington." />
+    <meta name="description" content="Join the Seattle University community in the heart of Seattle, Washington — where bold dreams, meaningful purpose and Jesuit-inspired leadership come together. Be influential. Be unstoppable. Be legendary." />
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@seattleu">
     <meta name="twitter:creator" content="@seattleu">
     <meta name="twitter:title" content="Adventure Beyond the Classroom" />
     <meta name="twitter:url" content="https://www.seattleu.edu/">
-    <meta name="twitter:description" content="Founded in 1891, Seattle University is a Jesuit, Catholic university located on a vibrant and green campus of 50 acres in the dynamic heart of Seattle, Washington." />
+    <meta name="twitter:description" content="Join the Seattle University community in the heart of Seattle, Washington — where bold dreams, meaningful purpose and Jesuit-inspired leadership come together. Be influential. Be unstoppable. Be legendary." />
     <meta name="twitter:image" content="https://www.seattleu.edu/media/seattle-university/be-legendary/HP_summer2025banner_2-2400x1350.png" />
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Seattle University">
     <meta property="og:title" content="Adventure Beyond the Classroom" />
     <meta property="og:url" content="https://www.seattleu.edu/">
-    <meta property="og:description" content="Founded in 1891, Seattle University is a Jesuit, Catholic university located on a vibrant and green campus of 50 acres in the dynamic heart of Seattle, Washington." />
+    <meta property="og:description" content="Join the Seattle University community in the heart of Seattle, Washington — where bold dreams, meaningful purpose and Jesuit-inspired leadership come together. Be influential. Be unstoppable. Be legendary." />
     <meta property="og:image" content="https://www.seattleu.edu/media/seattle-university/be-legendary/HP_summer2025banner_2-2400x1350.png" />
-    <meta property="og:image:alt" content="Summer adventure image collage">
+    <meta property="og:image:alt" content="Summer Adventure Image Collage">
     <t4 type="meta" id="54" />
     <t4 type="meta" id="22" />
     <meta name="generator" content="Terminalfour">
