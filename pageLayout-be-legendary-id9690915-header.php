@@ -137,7 +137,7 @@
 
     <!-- Fonts, Styles, and Scripts -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Roboto+Slab:wght@200;400;600;700&display=swap" rel="stylesheet">
-    <script type="module" crossorigin src="https://www.seattleu.edu//media/seattle-university/be-legendary/assets/index-DucEud8B.js"></script>
+    <script type="module" crossorigin src="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-Bt65M7Om.js"></script>
     <link rel="stylesheet" crossorigin href="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-x9As2NSf.css">
   
     <!-- Custom -->
