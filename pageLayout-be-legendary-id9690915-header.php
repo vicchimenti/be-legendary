@@ -137,8 +137,8 @@
 
     <!-- Fonts, Styles, and Scripts -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Roboto+Slab:wght@200;400;600;700&display=swap" rel="stylesheet">
-    <script type="module" crossorigin src="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-Bt65M7Om.js"></script>
-    <link rel="stylesheet" crossorigin href="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-x9As2NSf.css">
+    <script type="module" crossorigin src="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-aylYCTuI.js"></script>
+    <link rel="stylesheet" crossorigin href="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-iLf2iW_K.css">
   
     <!-- Custom -->
     <t4 type="navigation" name="Return Scripts for Head - Be Legendary" id="1121" />
