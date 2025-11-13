@@ -237,5 +237,5 @@
 ---
 
 **Document Version:** 1.0  
-**Last Updated:** November 13, 2025
+**Last Updated:** November 13, 2025  
 **Next Review:** December 2025 (at handoff)
