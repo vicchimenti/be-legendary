@@ -145,6 +145,6 @@
     <t4 type="navigation" name="V10 - Custom CSS Zone" id="1013" />
 
   </head>
-  <body class="be-legendary">
+  <body class="be-legendary-dev">
     <t4 type="navigation" name="Return Scripts for Start of Body - Be Legendary" id="1122" />
     <div id="app">
