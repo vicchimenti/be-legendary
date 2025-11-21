@@ -57,7 +57,7 @@ git push -u origin su-maintenance-2025-12
    ```bash
    VITE_BASE=/media/seattle-university/be-legendary/ npm run build
    ```
-5. Upload `/dist/assets/` and `index.html` output to `/dist/assets/` T4 Media Library and merge `index.html` into the Be-Legendary Page Layout.
+5. Upload `/dist/assets/` and `index.html` output `/dist/assets/` to T4 Media Library and merge `index.html` into the Be-Legendary Page Layout.
 
 ---
 
