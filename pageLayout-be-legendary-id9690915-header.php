@@ -98,7 +98,7 @@
         }
       }
     </script>
-    <script type="application/ld+json">
+    <script type="application/ld+json" id="breadcrumb-jsonld">
       {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
