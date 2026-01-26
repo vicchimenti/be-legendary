@@ -39,7 +39,7 @@
         "description": "Join the Seattle University community in the heart of Seattle, Washington — where bold dreams, meaningful purpose and Jesuit-inspired leadership come together. Be influential. Be unstoppable. Be legendary.",
         "image": "https://www.seattleu.edu/media/seattle-university/site-assets/branding/seattleu-logo-300x300.png",
         "datePublished": "2025-09-02T05:18:30-07:00",
-        "dateModified": "2026-01-07T05:16:38-08:00",
+        "dateModified": "2026-01-26T05:13:16-08:00",
         "publisher": {
           "@type": "CollegeOrUniversity",
           "name": "Seattle University",
@@ -137,8 +137,8 @@
 
     <!-- Fonts, Styles, and Scripts -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Roboto+Slab:wght@200;400;600;700&display=swap" rel="stylesheet">
-    <script type="module" crossorigin src="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-CpqFg9fY.js"></script>
-    <link rel="stylesheet" crossorigin href="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-DTAvf1ZB.css">
+    <script type="module" crossorigin src="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-B5zJcU1p.js"></script>
+    <link rel="stylesheet" crossorigin href="https://www.seattleu.edu/media/seattle-university/be-legendary/assets/index-BRRqsE8A.css">
   
     <!-- Custom -->
     <t4 type="navigation" name="Return Scripts for Head - Be Legendary" id="1121" />
