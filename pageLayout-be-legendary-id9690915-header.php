@@ -39,7 +39,7 @@
         "description": "Join the Seattle University community in the heart of Seattle, Washington — where bold dreams, meaningful purpose and Jesuit-inspired leadership come together. Be influential. Be unstoppable. Be legendary.",
         "image": "https://www.seattleu.edu/media/seattle-university/site-assets/branding/seattleu-logo-300x300.png",
         "datePublished": "2025-09-02T05:18:30-07:00",
-        "dateModified": "2026-02-04T05:13:06-08:00",
+        "dateModified": "2026-04-09T05:15:47-08:00",
         "publisher": {
           "@type": "CollegeOrUniversity",
           "name": "Seattle University",
